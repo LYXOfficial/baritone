@@ -3,7 +3,8 @@
 The easiest way to install Baritone is to install it as Forge/Neoforge/Fabric mod, but if you know how you can also use with a custom `version.json`
 (Examples: [1.14.4](https://www.dropbox.com/s/rkml3hjokd3qv0m/1.14.4-Baritone.zip?dl=1), [1.15.2](https://www.dropbox.com/s/8rx6f0kts9hvd4f/1.15.2-Baritone.zip?dl=1), [1.16.5](https://www.dropbox.com/s/i6f292o2i7o9acp/1.16.5-Baritone.zip?dl=1)).
 
-Once Baritone is installed, look [here](USAGE.md) for instructions on how to use it.
+Once Baritone is installed, look [here](USAGE.md) for inst
+ructions on how to use it.
 
 ## Prebuilt official releases
 Releases are made rarely and are not always up to date with the latest features and bug fixes.
